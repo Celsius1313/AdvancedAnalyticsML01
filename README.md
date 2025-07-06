@@ -1,2 +1,2 @@
 # AdvancedAnalyticsML01
-This Repo, is to share ML projects solved by me and help other users or to be improved by others users
+This Repo is to share ***ML Projects*** solved by me and help other users or to allow others users improve my ***ML Projects***
