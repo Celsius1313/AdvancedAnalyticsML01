@@ -9,7 +9,7 @@
  * Data Preprocessing – Clean and transform data with the most commom techniques
  * Feature Engineering – Craft high-impact features for better performance
  * Model Development – Apply both classic and cutting-edge ML algorithms
- * Training & Testing – Validate with techniques and performance metrics
+ * Training, Validation & Testing – Validate with techniques and performance metrics
  * Hyperparameter Tuning – Fine-tune models for optimal results
  * Deployment – Make models production-ready and scalable
 
